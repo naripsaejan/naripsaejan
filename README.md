@@ -5,10 +5,10 @@ FullStack Developer
 -------------------
 
 Performance 
-  https://ideva.co/
-  https://homerealestate.co.th/th
-  https://accounting-preview.jdnteam.dev/
-  https://bellajewelryfactory.com/
+  - https://ideva.co/
+  - https://homerealestate.co.th/th
+  - https://accounting-preview.jdnteam.dev/
+  - https://bellajewelryfactory.com/
 
 * ✉️  You can contact me at [naripsaejan@gmail.com](mailto:naripsaejan@gmail.com)
 
